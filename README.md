@@ -7,7 +7,7 @@ Minimalist Grades is an open-source app designed to make it simple to record sch
 
 The default grading system is based on the Panamanian school grading system, while the calculation system is designed to be customizable.
 
-## Planned Features
+# Planned Features
 
 ## Grade Management
 
