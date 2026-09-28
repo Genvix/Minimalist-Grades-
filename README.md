@@ -7,9 +7,9 @@ Minimalist Grades is an open-source app designed to make it simple to record sch
 
 The default grading system is based on the Panamanian school grading system, while the calculation system is designed to be customizable.
 
-# Planned Features
+## Planned Features
 
-# Grade Management
+## Grade Management
 
 - Grade tracking by subject
 - Daily grades and appreciation grades
@@ -18,34 +18,34 @@ The default grading system is based on the Panamanian school grading system, whi
 - Trimester averages
 - Cumulative averages
 
-# Customization
+## Customization
 
 - Customizable grading systems
 - Custom grading scales
 - Custom decimal handling
 
-# Goals
+## Goals
 
 - Target average for each subject
 - Calculation of grades needed to reach a target
 
-# School Organization
+## School Organization
 
 - Multiple trimesters
 - School timetable
 - Option to keep subjects and timetable when creating a new trimester
 
-# Storage
+## Storage
 
 - Local data storage
 - Offline functionality
 
-# Status
+## Status
 
 Early Development
 
 The application is currently being designed. Development has not started yet.
 
-# License
+## License
 
 License to be determined.
