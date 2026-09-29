@@ -44,7 +44,7 @@ The default grading system is based on the Panamanian school grading system, whi
 
 Early Development
 
-The application is currently being designed. Development has not started yet.
+The application is currently being designed. Development has already started, planed first public alfa beta in 29/9/26
 
 ## License
 
